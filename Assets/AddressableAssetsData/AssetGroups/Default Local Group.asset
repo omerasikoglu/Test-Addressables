@@ -17,8 +17,8 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 2845b1b7ccfbeb94e9333cb06e77d06e
   m_SerializeEntries:
-  - m_GUID: 3cb63afa9e0e40a48a644d4430e0cbac
-    m_Address: Assets/pfImage.prefab
+  - m_GUID: b6a26be3be5d22f44807b397fe788b19
+    m_Address: Assets/Canvas.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - default

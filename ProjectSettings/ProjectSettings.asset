@@ -669,11 +669,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 
+  cloudProjectId: 4148e160-e6c9-436c-8779-ec265deed8fb
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: Test-Addressables
+  organizationId: marteliuss
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
