@@ -10,16 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Default Local Group
+  m_Name: Packed Assets
   m_EditorClassIdentifier: 
-  m_GroupName: Default Local Group
+  m_GroupName: Packed Assets
   m_Data:
     m_SerializedData: []
-  m_GUID: 2845b1b7ccfbeb94e9333cb06e77d06e
-  m_SerializeEntries: []
+  m_GUID: 507fc701d254fc24dbcb79b6eff10e2a
+  m_SerializeEntries:
+  - m_GUID: b6a26be3be5d22f44807b397fe788b19
+    m_Address: Assets/Canvas.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: e375d9941c65cc947a5668f55f27a501, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 5308dd8118f23464daa8c0d3ae52d991, type: 2}
-    - {fileID: 11400000, guid: 34fe9df07bec8324c9ff6a965e9f2014, type: 2}
+    - {fileID: 11400000, guid: 56fba0100d7ac3f4ebec8f40b1785e0b, type: 2}
+    - {fileID: 11400000, guid: d8663588fcf46de44ba38f10afc9766f, type: 2}
